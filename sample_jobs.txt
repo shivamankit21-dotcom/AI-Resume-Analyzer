@@ -1,0 +1,11 @@
+Data Scientist: python, machine learning, pandas, numpy, statistics, data analysis
+AI Engineer: deep learning, neural networks, tensorflow, pytorch, machine learning
+Backend Developer: python, django, flask, api, sql, databases
+Web Developer: html, css, javascript, react, frontend
+Android Developer: java, kotlin, android, firebase, mobile development
+HR Executive: recruitment, hiring, communication, employee management, hr policies
+Marketing Executive: marketing, sales, branding, digital marketing, communication
+Content Writer: content writing, blogging, seo, copywriting, research
+Business Analyst: business analysis, documentation, communication, requirements gathering
+Operations Manager: operations, management, coordination, planning, reporting
+Customer Support Executive: customer handling, communication, problem solving, crm
