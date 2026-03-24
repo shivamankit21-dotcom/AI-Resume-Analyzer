@@ -1,8 +1,8 @@
 Data Scientist: python, machine learning, pandas, numpy, statistics, data analysis
-AI Engineer: deep learning, neural networks, tensorflow, pytorch, machine learning
-Backend Developer: python, django, flask, api, sql, databases
+AI Engineer: python, deep learning, neural networks, tensorflow, pytorch, machine learning
+Backend Developer: python, django, flask, api, sql, database, backend
 Web Developer: html, css, javascript, react, frontend
-Android Developer: java, kotlin, android, firebase, mobile development
+Android Developer: java, kotlin, android, firebase, api
 HR Executive: recruitment, hiring, communication, employee management, hr policies
 Marketing Executive: marketing, sales, branding, digital marketing, communication
 Content Writer: content writing, blogging, seo, copywriting, research
